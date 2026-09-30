@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="system_background_dark">#FFBB86FC</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="background">#F2F4F7</color>
+    <color name="subscribecolor">#344054</color>
+    <color name="bottomnavigate">#1A4142</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="labelgray">#EAECF0</color>
+    <color name="green">#3DAB25</color>
+    <color name="greenlight">#D2FBDC</color>
+    <color name="greenborder">#53DA9D</color>
+    <color name="browlight">#FEF0C7</color>
+    <color name="browborder">#FDB022</color>
+    <color name="bluelight">#E3EEFF</color>
+    <color name="blueborder">#5A96F0</color>
+    <color name="graylight">#F0F0F0</color>
+    <color name="grayborder">#1C1C1C</color>
+    <color name="textgreen">#0A706B</color>
+    <color name="textbrow">#B54708</color>
+
+    <color name="orangelight">#FDB022</color>
+    <color name="orangeborder">#DC6803</color>
+    <color name="redlight">#E31B54</color>
+    <color name="redborder">#A11043</color>
+    <color name="transparent">#00000000</color><!--0%-->
+    <color name="default_tab_indicator_grey">#DDDDDD</color>
+    <color name="redstart">#770000</color>
+    <color name="redend">#AF0F0F</color>
+    <color name="primary">#017E82</color>
+    <color name="greenstart">#051B1B</color>
+    <color name="greenend">#017E82</color>
+    <color name="borderbackground">#F2F2F2</color>
+    <color name="borderline">#6A6A6A</color>
+    <color name="graytext">#6A6A6A</color>
+    <color name="graybackground">#F2F2F2</color>
+    <color name="lightgreen">#81C7C9</color>
+    <color name="darkcharcoal">#323232</color>
+    <color name="default_no_slip_text_grey">#C0B3B3</color>
+    <color name="default_overlay_gray">#80808080</color>
+    <color name="default_blue">#5A96F0</color>
+</resources>
